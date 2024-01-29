@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+undefined
